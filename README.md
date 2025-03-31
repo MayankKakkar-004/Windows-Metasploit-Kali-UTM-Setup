@@ -100,5 +100,3 @@ Feel free to contribute improvements or suggest additional configurations!
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
