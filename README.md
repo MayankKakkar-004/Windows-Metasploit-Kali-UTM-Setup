@@ -82,6 +82,6 @@ Feel free to contribute improvements or suggest additional configurations!
 - [Metasploit Guide](https://docs.metasploit.com/)
 
 
-![Windows 11 iso Installation](/Users/mayankkakkar/Documents/win)
+
 
 
